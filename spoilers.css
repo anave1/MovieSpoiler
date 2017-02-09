@@ -1,0 +1,11 @@
+body {
+  background-color: red;
+}
+
+span{
+color: red;
+}
+
+span:hover{
+  background-color: white;
+}
